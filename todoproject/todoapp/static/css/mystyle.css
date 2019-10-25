@@ -1,0 +1,13 @@
+
+.headsection{
+    background-color: #d3d3d3;
+    text-align: center;
+    color: blueviolet;
+}
+
+h1{
+    color: blueviolet;
+}
+h3{
+    color: brown !important;
+}
